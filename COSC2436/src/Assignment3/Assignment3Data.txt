@@ -1,0 +1,72 @@
+Albany	Minneapolis	1224
+Albuquerque	Albany	2064
+Atlanta	St Louis	555
+Austin	Fort Worth	189
+Baltimore	El Paso	1998
+Baltimore	Seattle	2764
+Billings	Salt Lake City	562
+Birmingham	Wichita	814
+Boise	Houston	1848
+Boston	Oklahoma City	1689
+Boston	Omaha	1441
+Charleston	Denver	1706
+Charleston	Reno	2690
+Charlotte	Cleveland	515
+Charlotte	Las Vegas	2205
+Chicago	San Jose	2163
+Cleveland	Detroit	170
+Columbus	Memphis	588
+Dallas	El Paso	633
+Denver	Oklahoma City	678
+Denver	Phoenix	821
+Des Moines	Albuquerque	981
+Detroit	Boise	1954
+Detroit	Denver	1277
+El Paso	Little Rock	951
+El Paso	San Antonio	549
+Fargo	Orlando	1800
+Fort Worth	Houston	262
+Houston	Austin	165
+Houston	Buffalo	1481
+Indianapolis	Washington	572
+Jackson	Charleston	688
+Jacksonville	Nashville-Davidson	595
+Kansas City	New York	1192
+Las Vegas	Birmingham	1812
+Las Vegas	New York	2521
+Little Rock	Rapid City	1129
+Los Angeles	Des Moines	1683
+Los Angeles	San Francisco	382
+Louisville	Charlotte	475
+Memphis	Louisville	384
+Memphis	Nashville-Davidson	212
+Milwaukee	Denver	1045
+Minneapolis	Washington	1109
+Nashville	Norfolk	706
+Nashville-Davidson	Memphis	212
+New York	Los Angeles	2792
+New York	Nashville	884
+Norfolk	Las Vegas	2495
+Oklahoma City	Boston	1690
+Oklahoma City	Chicago	795
+Omaha	San Antonio	920
+Orlando	Billings	2257
+Philadelphia	Boston	309
+Philadelphia	San Francisco	2877
+Phoenix	Las Vegas	297
+Portland	Dallas	2036
+Rapid City	Atlanta	1504
+Reno	Kansas City	1588
+Salt Lake City	Charleston	2175
+San Antonio	Fort Worth	268
+San Antonio	Jackson	637
+San Diego	San Jose	460
+San Francisco	Fargo	1783
+San Francisco	New York	2906
+San Jose	San Francisco	48.5
+Seattle	Memphis	2286
+Seattle	New York	2858
+St Louis	Baltimore	821
+Washington	El Paso	1961
+Washington	Seattle	2761
+Wichita	Los Angeles	1379
